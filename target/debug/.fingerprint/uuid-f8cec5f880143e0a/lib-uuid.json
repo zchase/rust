@@ -1,0 +1,1 @@
+{"rustc":712532066948670400,"target":14386239696408377342,"profile":13023446655302672390,"local":{"variant":"Precalculated","fields":["0.2.2"]},"features":"Some([\"rand\", \"v4\"])","deps":[["rand v0.3.14",13476583191308476001]]}
