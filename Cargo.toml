@@ -1,0 +1,7 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["Zack Chase <zack@distelli.com>"]
+
+[dependencies]
+nickel="*"
